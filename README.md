@@ -1,0 +1,1 @@
+This project is part of a testing course at Centric during my third year of university. Together with two colleagues, we tested various functionalities of the okazii.ro website. It was an exciting opportunity to explore and analyze real-world features, applying both manual and automated testing techniques to ensure the site's functionality and user experience meet expectations.
